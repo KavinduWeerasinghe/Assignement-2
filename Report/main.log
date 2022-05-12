@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.12)  12 MAY 2022 03:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.12)  12 MAY 2022 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -732,30 +732,68 @@ Overfull \hbox (0.79974pt too wide) in paragraph at lines 40--41
  [] 
  []
 
+<Images/Q1 - RANSAC.png, id=4, 602.25pt x 577.15625pt>
+File: Images/Q1 - RANSAC.png Graphic file (type png)
+<use Images/Q1 - RANSAC.png>
+Package pdftex.def Info: Images/Q1 - RANSAC.png  used on input line 45.
+(pdftex.def)             Requested size: 113.81102pt x 109.06197pt.
 
-Overfull \hbox (1.653pt too wide) in paragraph at lines 58--59
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 51.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 52.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 53.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 56.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 59.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 66.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 66.
+
+
+Overfull \hbox (1.653pt too wide) in paragraph at lines 66--67
 []\OT1/cmr/m/n/12 In this ques-tions, we will stitch the two Graf-fiti im-age3 img1.ppm onto img5.ppm. 
  []
 
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 68.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 69.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 70.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 72.
+
 [1
 
-{C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/Q1 - RANSAC.png>]
 \tf@thm=\write4
 \openout4 = `main.thm'.
 
  (main.aux) ) 
 Here is how much of TeX's memory you used:
- 18078 strings out of 478619
- 376509 string characters out of 2843717
- 732717 words of memory out of 3000000
- 35905 multiletter control sequences out of 15000+600000
+ 18095 strings out of 478619
+ 376841 string characters out of 2843717
+ 734726 words of memory out of 3000000
+ 35919 multiletter control sequences out of 15000+600000
  473807 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,5n,90p,523b,423s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (1 page, 64710 bytes).
+Output written on main.pdf (1 page, 93522 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

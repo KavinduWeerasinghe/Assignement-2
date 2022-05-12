@@ -750,8 +750,15 @@ INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Images\Q1 - RANSAC.png
+INPUT .\Images\Q1 - RANSAC.png
+INPUT Images\Q1 - RANSAC.png
+INPUT .\Images\Q1 - RANSAC.png
 OUTPUT main.pdf
+INPUT .\Images\Q1 - RANSAC.png
+INPUT .\Images\Q1 - RANSAC.png
+INPUT .\Images\Q1 - RANSAC.png
+INPUT C:\Users\DELL\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\DELL\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT main.thm
 INPUT main.aux
